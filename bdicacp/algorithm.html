@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Basic page needs
+    ============================================ -->
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>bdicACP Predictor</title>
+
+    <!-- Mobile specific metas
+    ============================================ -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google web fonts
+    ============================================ -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Favicon
+    ============================================ -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+    <!-- CSS  -->
+    <!-- Bootstrap CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- font-awesome CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+    <!-- owl.carousel CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.css">
+
+    <!-- animate CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/animate.css">
+
+    <!-- main CSS
+    ============================================ -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- responsive CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- prettyPhoto CSS
+    ============================================ -->
+    <link rel="stylesheet" href="css/prettyPhoto.css">
+
+    <!-- modernizr js
+    ============================================ -->
+    <script src="js/modernizr.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+<!-- HEADER START -->
+<div id="navbar-main">
+    <!-- FIXED NAVBAR -->
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- LOGO -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                <a class="navbar-brand" href="index.html"><i class="fa fa-heartbeat"></i>bdicACP Predictor</a>
+            </div>
+            <!-- / END LOGO -->
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="index.html" class="smoothScroll">Home</a></li>
+                    <li> <a href="About.html" class="smoothScroll"> Background</a></li>
+                    <li> <a href="algorithm.html" class="smoothScroll"> Algorithm</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / END HEADER -->
+
+<!-- BANNER START -->
+<section id="banner" class="section-padding"  style="margin-top: 80px">
+    <div class="container">
+        <div class="row wow bounceIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+            <div class="col-sm-12">
+                <div class="fn-section-header">
+                    <h2 class="section-title text-center"> N-to-1  Neural  Network</h2>
+                    <p >Artificial Neural Network is a machine-learning algorithm. It was designed to modify human brain’s construction and try to solve problem
+                        as human. A classic ANN model can be described using nodes and connections. There are three layers of nodes, or ‘neurons’, input, hidden, and output.
+                        Connection between neurons cover all possible paths from any input nodes to any output nodes. ANN model tries to ‘understand’ the input data and
+                        generate neurons to place in the model. Its training process is rather complicated. ANN was popular before SVM became the common choices.
+                        It got out fashion as its complexity and high requirement for computing power. Most existing peptide predictors are constructed using SVM. These years,
+                        ANN come back with more attention. We think applying ANN to anti-cancer peptide predictor would be an innovating experiment. The training neural network used in
+                        this project is called N1-NN, N-to-1 Neural Network. This modelchooses fixed features to compress instead of all information like most models do. After beforehand data processing,
+                        the data will be fed forward through neural network and trained by the back-propagation algorithm. To prevent overparametrization, the model can be controlled by these parameters:
+                        NHF(the number of units in the hidden layer of the sequence-to-feature network), NHY(the number of hidden units in the feature-to-output network), NF(the number of hidden states in the feature vector f),
+                        context(semi-window which is determined by the output net) and epsilon(learning rate). An example of the process is shown in the figure below. N copies of the N(h) network(only three represented forsimplicity) process all the (overlapping)
+                        motifs of a predefined length in a sequence.  The vectorial outputs f.k of these networks are added up, and the resulting feature vector f is input to the N(o)network to produce the localization prediction</p>
+                </div>
+                <div class="banner">
+                    <img src="images/algorithm.jpeg" class="img-responsive center-block" alt="help">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- / END HERO -->
+
+<!-- ABOUT SECTION START -->
+<section id="about" class="section-padding about-us">
+    <div class="container">
+        <div class="row">
+            <!-- SECTION HEADER -->
+            <div class="fn-section-header">
+                <h2 class="section-title text-center">Contact Us</h2>
+                <p class="text-center">Email:yili.lai@ucd.connected.ie</p>
+            </div>
+            <!-- / END SECTION HEADER -->
+        </div>
+    </div>
+</section>
+<!-- END ABOUT SECTION -->
+
+<!-- JS -->
+
+<!-- jquery js -->
+<script src="js/jquery.min.js"></script>
+<!-- bootstrap js -->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<!-- retina js -->
+<script type="text/javascript" src="js/retina.js"></script>
+<!-- prettyPhoto js -->
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<!-- easing js -->
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<!-- isotope js -->
+<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+<!-- mousescroll js -->
+<script type="text/javascript" src="js/mousescroll.js"></script>
+<!-- smoothscroll js -->
+<script type="text/javascript" src="js/smoothscroll.js"></script>
+<!-- inview js -->
+<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+<!-- owl carousel js -->
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<!-- Google map -->
+<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<!-- wow js -->
+<script src="js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+<!-- Main js -->
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
