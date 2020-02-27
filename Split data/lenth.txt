@@ -1,0 +1,100 @@
+  Anticancer          0.997640                  0.002360      
+  Anticancer          0.997646                  0.002354      
+  Anticancer          0.885040                  0.114960      
+  Anticancer          0.997643                  0.002357      
+  Anticancer          0.563880                  0.436120      
+  Anticancer          0.993621                  0.006379      
+Non-Anticancer      0.401130                  0.598870      
+  Anticancer          0.999540                  0.000460      
+Non-Anticancer      0.333859                  0.666141      
+Non-Anticancer      0.452649                  0.547351      
+  Anticancer          0.997644                  0.002356      
+  Anticancer          0.999900                  0.000100      
+  Anticancer          0.997644                  0.002356      
+  Anticancer          0.996693                  0.003307      
+  Anticancer          0.997646                  0.002354      
+  Anticancer          0.997642                  0.002358      
+Non-Anticancer      0.007903                  0.992097      
+  Anticancer          0.997639                  0.002361      
+  Anticancer          0.932481                  0.067519      
+  Anticancer          0.993503                  0.006497      
+  Anticancer          0.997641                  0.002359      
+  Anticancer          0.500000                  0.500000      
+  Anticancer          0.937605                  0.062395      
+  Anticancer          0.963040                  0.036960      
+Non-Anticancer      0.256214                  0.743786      
+  Anticancer          0.607228                  0.392772      
+  Anticancer          0.734074                  0.265926      
+  Anticancer          0.990283                  0.009717      
+  Anticancer          0.997640                  0.002360      
+  Anticancer          0.843525                  0.156475      
+  Anticancer          0.997643                  0.002357      
+  Anticancer          0.936459                  0.063541      
+  Anticancer          0.999738                  0.000262      
+  Anticancer          0.999053                  0.000947      
+Non-Anticancer      0.007929                  0.992071      
+  Anticancer          0.996262                  0.003738      
+  Anticancer          0.959603                  0.040397      
+  Anticancer          0.997639                  0.002361      
+  Anticancer          0.998013                  0.001987      
+  Anticancer          0.570979                  0.429021      
+Non-Anticancer      0.005183                  0.994817      
+  Anticancer          0.881373                  0.118627      
+Non-Anticancer      0.171701                  0.828299      
+  Anticancer          0.998405                  0.001595      
+Non-Anticancer      0.033976                  0.966024      
+Non-Anticancer      0.475062                  0.524938      
+Non-Anticancer      0.148342                  0.851658      
+  Anticancer          0.997641                  0.002359      
+Non-Anticancer      0.122877                  0.877123      
+  Anticancer          0.997641                  0.002359      
+Non-Anticancer      0.150546                  0.849454      
+  Anticancer          0.926760                  0.073240      
+  Anticancer          0.991494                  0.008506      
+  Anticancer          0.910349                  0.089651      
+Non-Anticancer      0.183687                  0.816313      
+  Anticancer          0.999031                  0.000969      
+  Anticancer          0.603559                  0.396441      
+Non-Anticancer      0.170823                  0.829177      
+  Anticancer          0.998560                  0.001440      
+Non-Anticancer      0.044104                  0.955896      
+Non-Anticancer      0.484338                  0.515662      
+Non-Anticancer      0.260907                  0.739093      
+Non-Anticancer      0.463029                  0.536971      
+Non-Anticancer      0.326213                  0.673787      
+  Anticancer          0.872893                  0.127107      
+  Anticancer          0.969836                  0.030164      
+  Anticancer          0.994413                  0.005587      
+  Anticancer          0.985529                  0.014471      
+  Anticancer          0.954124                  0.045876      
+  Anticancer          0.958911                  0.041089      
+  Anticancer          0.938446                  0.061554      
+Non-Anticancer      0.400907                  0.599093      
+  Anticancer          0.998030                  0.001970      
+  Anticancer          0.956597                  0.043403      
+  Anticancer          0.996922                  0.003078      
+  Anticancer          0.998559                  0.001441      
+  Anticancer          0.993897                  0.006103      
+  Anticancer          0.993797                  0.006203      
+  Anticancer          0.962513                  0.037487      
+  Anticancer          0.998285                  0.001715      
+  Anticancer          0.946472                  0.053528      
+  Anticancer          0.908036                  0.091964      
+Non-Anticancer      0.246455                  0.753545      
+  Anticancer          0.959564                  0.040436      
+  Anticancer          0.999244                  0.000756      
+  Anticancer          0.992223                  0.007777      
+  Anticancer          0.901912                  0.098088      
+  Anticancer          0.998845                  0.001155      
+Non-Anticancer      0.152585                  0.847415      
+  Anticancer          0.967100                  0.032900      
+  Anticancer          0.868933                  0.131067      
+  Anticancer          0.976498                  0.023502      
+Non-Anticancer      0.038280                  0.961720      
+  Anticancer          0.995888                  0.004112      
+  Anticancer          0.999525                  0.000475      
+  Anticancer          0.996618                  0.003382      
+  Anticancer          0.901571                  0.098429      
+  Anticancer          0.994366                  0.005634      
+  Anticancer          0.839204                  0.160796      
+Non-Anticancer      0.326181                  0.673819      
